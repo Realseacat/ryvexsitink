@@ -6,6 +6,6 @@ if game.PlaceId == 7449423635 or game.PlaceId == 2753915549 or game.PlaceId == 4
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AdministratorSeaCat/ryvexsitick/refs/heads/main/RyvexHub.lua"))()
 elseif game.PlaceId == 6839171747 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Realseacat/RealSeaCat/refs/heads/main/Door.lua"))()
-elseif game.PlaceId == 79546208627805 then
+elseif game.PlaceId == 79546208627805 or game.PlaceId == 126509999114328 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Realseacat/RealSeaCat/refs/heads/main/Ryvex99nights%20intheforest.lua"))()
 end
