@@ -14,6 +14,6 @@ then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Realseacat/RealSeaCat/refs/heads/main/17761.lua"))()
 
 elseif game.PlaceId == 79546208627805 or game.PlaceId == 126509999114328 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Realseacat/RealSeaCat/refs/heads/main/Ryvex99nights%20intheforest.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Realseacat/ryvexsitink/refs/heads/main/99NightsintheForest.lua"))()
 end
 
